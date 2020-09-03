@@ -16,7 +16,7 @@ export default {
   host_num_5g: 32,
   wireless5g_channel: ['auto', '36', '40', '44', '48', '149', '153', '157', '161', '165'],
   wireless5g_mode: ['11a/n%20mixed', '11a/n/ac%20mixed'],
-  wireless5g_bandwidth: ['auto', '20MHz', '40MHz'],
+  wireless5g_bandwidth: ['auto', '20MHz', '40MHz', '80MHz'],
   wireless_band: ['wireless2g', 'wireless5g'],
   wireless5g_vhtmubfer: 1,
   host_time_mng_type: 1,
