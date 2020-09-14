@@ -1,0 +1,4 @@
+PASSWORD = foo
+LANGUAGE = en-US
+IP_TABLE[] = main router | 192.168.222.111
+IP_TABLE[] = second router | 192.168.233.233

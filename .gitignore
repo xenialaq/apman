@@ -106,5 +106,8 @@ dist
 # TS build
 build/
 
-# dotenv
-.env
+# rc
+apman.ini
+
+# pkg
+releases/
